@@ -114,8 +114,8 @@ const MatrixPortfolio = () => {
       {/* Main Content */}
       <div className="relative z-10">
         <header className="text-center mb-12">
-          <h1 className="text-4xl font-bold mb-4">Nama Anda</h1>
-          <p className="text-xl">Software Developer | Full Stack Engineer</p>
+          <h1 className="text-4xl font-bold mb-4">Muchammad Noor Arifin</h1>
+          <p className="text-xl">Mechine Learning | Robotic</p>
         </header>
 
         {/* Profile & About Section */}
@@ -137,8 +137,8 @@ const MatrixPortfolio = () => {
             <div className="border-2 border-green-500 rounded-lg p-6 bg-black/30 h-full">
               <h2 className="text-2xl font-bold mb-4">About Me</h2>
               <p>
-                Welcome to my Matrix-themed portfolio. I am a passionate developer with
-                expertise in web development and software engineering.
+                Welcome to my portfolio. I am a passionate developer with
+                expertise in Mechine Learning and Robotic.
               </p>
             </div>
           </div>
