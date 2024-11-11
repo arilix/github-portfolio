@@ -1,0 +1,45 @@
+/* Animasi utama Matrix Rain */
+@keyframes matrix-fall {
+    0% {
+        transform: translateY(-100%);
+    }
+
+    100% {
+        transform: translateY(100vh);
+    }
+}
+
+/* Gaya untuk kolom karakter Matrix Rain */
+.matrix-column {
+    position: absolute;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    color: #22c55e;
+    font-family: 'Courier New', monospace;
+    font-size: 1rem;
+    line-height: 1.2rem;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: matrix-fall var(--speed) linear infinite;
+}
+
+/* Gaya untuk karakter individual */
+.matrix-character {
+    opacity: 0.8;
+    animation: fade var(--speed) steps(1) infinite;
+}
+
+@keyframes fade {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
