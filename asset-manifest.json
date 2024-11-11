@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github-portfolio/static/css/main.ef957f98.css",
+    "main.js": "/github-portfolio/static/js/main.8fe4e549.js",
+    "static/js/453.d4b8ff9c.chunk.js": "/github-portfolio/static/js/453.d4b8ff9c.chunk.js",
+    "static/media/project2.jpg": "/github-portfolio/static/media/project2.cf74afecddf1ca007632.jpg",
+    "static/media/project1.jpg": "/github-portfolio/static/media/project1.d7c2bc76a7b91bf27b34.jpg",
+    "static/media/project4.jpg": "/github-portfolio/static/media/project4.9b10841681baff040028.jpg",
+    "static/media/project3.jpg": "/github-portfolio/static/media/project3.756607e7240af033753a.jpg",
+    "static/media/Profile.jpg": "/github-portfolio/static/media/Profile.e69bc7f04cc37c468ab9.jpg",
+    "index.html": "/github-portfolio/index.html",
+    "main.ef957f98.css.map": "/github-portfolio/static/css/main.ef957f98.css.map",
+    "main.8fe4e549.js.map": "/github-portfolio/static/js/main.8fe4e549.js.map",
+    "453.d4b8ff9c.chunk.js.map": "/github-portfolio/static/js/453.d4b8ff9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef957f98.css",
+    "static/js/main.8fe4e549.js"
+  ]
+}
